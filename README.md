@@ -1,2 +1,2 @@
-# UB_Repo
-This contains UB Projects
+# University of Bradford Repository
+The repo contains the following project:
